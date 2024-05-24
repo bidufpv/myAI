@@ -1,4 +1,5 @@
 # React + Vite
+This a Ai website landing page frontend part lots of stuffs and backend will be added.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
